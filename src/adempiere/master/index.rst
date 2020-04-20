@@ -11,7 +11,7 @@ Puesto que son los datos base,no se modifican una vez que las transacciones come
 
 Una de las dificultades generadas cuando existen datos maestros de baja calidad puede comprenderse mediante este ejemplo:
 
-    *Supongamos un caso, en el que un cliente que adquiere un producto manejado por distintas sucursales, es creado en las distintas unidades del negocio para emitir transacciones.*
+    *Supongamos dsdssfd un caso, en el que un cliente que adquiere un producto manejado por distintas sucursales, es creado en las distintas unidades del negocio para emitir transacciones.*
 
     *Al ser procesadas las transacciones, el cliente aparece de dististas formas, con distintos códigos en las diferentes intalaciones del sistema en gestión. Probablemente la consecuencia sería que exista errores en la facturación u otro documento fiscal a causa de la redundancia de datos.*
 
